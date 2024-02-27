@@ -90,6 +90,9 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
+![image](https://github.com/JAYASREE24032006/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144360800/b3f5be2c-1603-41ff-9079-fdff17c68b1d)
+![image](https://github.com/JAYASREE24032006/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144360800/c418a2d7-f5b5-4fad-a667-29b30a8b9f7c)
+
  
  
  
